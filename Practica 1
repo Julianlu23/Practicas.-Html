@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+  <title>Practica1</title>
+</head>
+<body>
+  <section>
+   <h1>Julian Luna Ayala</h1>
+  </section>
+ <section>
+   <div>16</div>
+   <div>5523387951</div>
+   <div>Profesional tecnico baciller en informatica</div>
+ </section>
+  <section>
+    <ul>
+       <li>Basquet</li>
+       <li>imagine dragons</li>
+       <li>Lagartigas</li>
+    </ul>
+  </section>
+</body>
+</html>
